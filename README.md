@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/i4mhto.jpg" width="100%" style="border-radius: 5px;"/>
+<img src="https://i.imgur.com/MaHxr85.jpeg" width="100%" style="border-radius: 5px;"/>
 
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=X69X+BOT+V2)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=MESSENGER+Chat+BOT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=X69X+BOT+V3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=MESSENGER+CHAT+BOT)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=NTKhang+%7C+Azadx69x)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/ncazad/Azadx69x">
-    <img title="Stars" src="https://img.shields.io/github/stars/ncazad/Azadx69x?style=flat-square&color=FF69B4&logo=starship&logoColor=FFFFFF">
+  <a href="https://github.com/ncazad/X69X-BOT-V3">
+    <img title="Stars" src="https://img.shields.io/github/stars/ncazad/X69X-BOT-V3?style=flat-square&color=FF69B4&logo=starship&logoColor=FFFFFF">
   </a>
-  <a href="https://github.com/ncazad/Azadx69x/forks">
-    <img title="Forks" src="https://img.shields.io/github/forks/ncazad/Azadx69x?style=flat-square&color=00CED1&logo=git&logoColor=FFFFFF">
+  <a href="https://github.com/ncazad/X69X-BOT-V3/forks">
+    <img title="Forks" src="https://img.shields.io/github/forks/ncazad/X69X-BOT-V3?style=flat-square&color=00CED1&logo=git&logoColor=FFFFFF">
   </a>
-  <a href="https://github.com/ncazad/Azadx69x">
-    <img title="Repo Size" src="https://img.shields.io/github/repo-size/ncazad/Azadx69x?style=flat-square&color=8A2BE2&logo=files&logoColor=FFFFFF">
+  <a href="https://github.com/ncazad/X69X-BOT-V3">
+    <img title="Repo Size" src="https://img.shields.io/github/repo-size/ncazad/X69X-BOT-V3?style=flat-square&color=8A2BE2&logo=files&logoColor=FFFFFF">
   </a>
   <a href="https://profile-counter.glitch.me/ncazad/count.svg">
      <img src="https://img.shields.io/badge/👁️-VISITORS-7B68EE?style=flat-square&logo=eye&logoColor=FFFFFF">
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ncazad/Azadx69x/fork">
+<a href="https://github.com/ncazad/X69X-BOT-V3/fork">
   <img src="https://img.shields.io/badge/FORK-00CED1?style=flat-square&logo=github&logoColor=FFFFFF">
 </a>
 
@@ -41,13 +41,15 @@
 
 <div align="center">
 
-|   𝙻𝚎𝚟𝚎𝚕  |    Access Tier  | Description |
-|----------|------------------|-------------|
-| **👥 0** | Standard User    | 𝙽𝚘𝚗𝚎        |
-| **⚔️ 1** | Group admin      | 𝙼𝚘𝚍𝚎𝚛𝚊𝚝𝚎    |
-| **🤖 2** | Bot admin        | 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍    |
-| **💎 3** | Premium User     | 𝙿𝚛𝚎𝚖𝚒𝚞𝚖     |
-| **👑 4** | System Developer | 𝙵𝚞𝚕𝚕 𝙰𝚌𝚌𝚎𝚜𝚜 |
+|   𝙻𝚎𝚟𝚎𝚕  |    Access Tier       | Description       |
+|----------|--------------------|-----------------|
+| **0 👥** | Standard User       | 𝙽𝚘𝚗𝚎            |
+| **1 ⚔️** | Group Admin         | 𝙼𝚘𝚍𝚎𝚛𝚊𝚝𝚎       |
+| **2 🤖** | Vip user            | 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍       |
+| **3 💎** | Premium User        | 𝙿𝚛𝚎𝚖𝚒𝚞𝚖        |
+| **4 👑** | Admin bot           | 𝙵𝚞𝚕𝚕 𝙰𝚌𝚌𝚎𝚜𝚜  |
+| **5 🔧** | Developer           | 𝙷𝚒𝚐𝚑 𝙿𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗 |
+| **6 👑** | Creator             | 𝙷𝚒𝚐𝚑𝚎𝚜𝚝 𝙰𝚌𝚌𝚎𝚜𝚜 |
 
 </div>
 
@@ -61,8 +63,8 @@ module.exports = {
     name: "command_name",                // 🔹 Command Name  
     version: "1.0",                      // 🔸 Version  
     author:"Azadx69x",                   // 👨‍💻 Developer  
-    role: 4,                             // 🔐 Required Access Level  
-    usePrefix: true,                     // ⛓️ Prefix Requirement  
+    role: 6,                             // 🔐 full Access system
+    usePrefix: true,                     // ⛓️ prefix Requirement  
     description: "Command Description",   // 📝 Functionality  
     guide: "Usage Guide",                // 📘 Command Syntax  
     category: "Utility",                 // 🧰 Function Category  
@@ -76,7 +78,7 @@ module.exports = {
 🪪 Connect & Support 
 
 <p align="center">
-  <a href="https://www.facebook.com/azad69x">
+  <a href="https://www.facebook.com/profile.php?id=61588403646276">
     <img src="https://img.shields.io/badge/CONNECT%20ON%20FACEBOOK-1877F2?style=flat-square&logo=facebook&logoColor=white">
   </a>
 </p>
@@ -88,13 +90,13 @@ module.exports = {
 - 👨‍💻 NTKhang03 — Goat-Bot-V2
 
 👑 Modified By:
-- 👨‍💻 Azadx69x — X69X-BOT-V2
+- 👨‍💻 Azadx69x — X69X-BOT-V3
 ---
 
 📜 𝙻𝙸𝙲𝙴𝙽𝚂𝙴
 
 ```text
-🤖 X69X BOT V2 
+🤖 X69X BOT V3 
 The MIT License (No Derivatives)
 
 Copyright (c) 2022, NTKhang (NTKhang03)
@@ -121,7 +123,7 @@ works based on the Software.
 
 ```mermaid
   pie
-    title "x69x bot v2 - 𝚂𝚃𝙰𝚃𝚄𝚂"
+    title "x69x bot v3 - 𝚂𝚃𝙰𝚃𝚄𝚂"
     "𝙲𝚘𝚍𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 (95%)" : 95
     "𝚃𝚎𝚜𝚝𝚒𝚗𝚐 (80%)" : 80
     "𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 (90%)" : 90
@@ -142,7 +144,7 @@ works based on the Software.
 
 <p align="center">
   <a href="https://github.com/ncazad">
-    <img alt="Ncazad's Github Stats"
+    <img alt="ncazad's Github Stats"
       src="https://github-readme-stats-beryl-chi-76.vercel.app/api?username=ncazad&show_icons=true&count_private=true&theme=react&bg_color=151515" />
   </a>
 </p>
